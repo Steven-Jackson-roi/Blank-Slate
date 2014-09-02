@@ -1,0 +1,64 @@
+.panel:hover{
+
+	box-shadow: 0px 0px 5px #333;
+
+}
+.row.maincontent{
+padding: 20px;
+
+}
+footer {
+	background: #f3f3f3;
+}
+ul {
+	list-style: none;
+	margin: 0;	
+	padding:0;
+}
+ul li{
+	list-style: none;
+	margin: 0;	
+	padding:5px;
+
+}
+
+a{
+	color: black;
+}
+a:hover{
+	color: green;
+}
+.carousel-caption{
+
+	color: red;
+}
+.navbar{
+	margin:0;
+}
+.clearstyle {
+padding:0px;
+	margin: 0px;
+}
+.leftside {
+
+padding-right: 0px;
+
+}
+.rightside{
+
+	
+	padding-left: 0px;
+}
+.copyright {
+
+	background: #000;
+	color: #fff;
+	text-align: center;
+}
+.row.teaser {
+	margin-top: 20px;
+}
+.jumbotron:hover {
+	-webkit-box-shadow: 0px 0px 1px blue;
+	box-shadow: 0px 0px 1px blue;
+}
